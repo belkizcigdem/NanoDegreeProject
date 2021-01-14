@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ###It is added for refactoring 
+=======
+#It is updated for documentation branch 
+>>>>>>> documentation
 ### Date created
 This project was created on 11.01.2021. 
 
